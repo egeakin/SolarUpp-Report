@@ -25,13 +25,13 @@ After solar panel plantation, generated solar energy amount will be gathered fro
 SolarUpp is a green field project which aims to increase solar energy usage by gathering information from rooftop’s images which are taken from above. Using images of rooftops to have a feasibility study is an essential point for large scale using by users..
 
 ## Reports
-Project Specification Report: [Click here to go to Project Specification Report](https://github.com/egeakin/SolarUpp-Report/blob/master/Project%20Specification%20Report.pdf)
+Project Specification Report: [Click here to go to Project Specification Report](https://github.com/egeakin/SolarUpp-Report/blob/master/SolarUpp%20Project%20Specification%20Report.pdf)
 
-Project Specification Report: [Click here to go to Analysis Report](https://github.com/egeakin/SolarUpp-Report/blob/master/ANALYSIS%20REPORT.pdf)
+Analysis Report: [Click here to go to Analysis Report](https://github.com/egeakin/SolarUpp-Report/blob/master/SolarUpp%20Analysis%20Report.pdf)
 
-High Level Design Report: [Click here to go to High Level Design Report](https://github.com/egeakin/SolarUpp-Report/blob/master/High-Level%20Design%20Report.pdf)
+High Level Design Report: [Click here to go to High Level Design Report](https://github.com/egeakin/SolarUpp-Report/blob/master/SolarUpp%20High-Level%20Design%20Report.pdf)
 
-Low Level Design Report: [Click here to go to Low Level Design Report](https://github.com/egeakin/SolarUpp/blob/master/SolarUpp-Report%20Low-Level%20Design%20Report.pdf)
+Low Level Design Report: [Click here to go to Low Level Design Report](https://github.com/egeakin/SolarUpp-Report/blob/master/SolarUpp%20Low-Level%20Design%20Report.pdf)
 
 Final Report: [Click here to go to Final Report](https://github.com/egeakin/SolarUpp-Report/blob/master/SolarUpp%20Final%20Report.pdf)
 
