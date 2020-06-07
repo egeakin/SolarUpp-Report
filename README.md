@@ -5,7 +5,7 @@ Alp Ertürk - 21602659&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs
 
 Fırat Ege Akın - 21602166 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;Fatih Çelik - 21601387
 
-![img](https://github.com/egeakin/SolarUpp-Report/blob/master/egevesikalk.jpeg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![img](https://github.com/egeakin/SolarUpp-Report/blob/master/fatih.jpg)
+![img](https://github.com/egeakin/SolarUpp-Report/blob/master/egevesikalk.jpeg?raw=true)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![img](https://github.com/egeakin/SolarUpp-Report/blob/master/fatih.jpg?raw=true)
 ## Supervisor
 Selim Aksoy
 
