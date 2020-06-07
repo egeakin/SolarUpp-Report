@@ -35,6 +35,6 @@ Low Level Design Report: [Click here to go to Low Level Design Report](https://g
 
 Final Report: [Click here to go to Final Report](https://github.com/egeakin/SolarUpp-Report/blob/master/SolarUpp%20Final%20Report.pdf)
 
-![alt text](https://github.com/egeakin/SolarUpp-Report/blob/master/download.png)
+![image](https://github.com/egeakin/SolarUpp-Report/blob/master/download.png)
 
 ![](https://github.com/egeakin/SolarUpp/blob/master/Screen%20Shot%202019-10-18%20at%2015.08.29.png)
