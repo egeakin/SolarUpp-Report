@@ -34,6 +34,6 @@ Low Level Design Report: [Click here to go to Low Level Design Report](https://g
 
 Final Report: [Click here to go to Final Report](https://github.com/egeakin/SolarUpp-Report/blob/master/SolarUpp%20Final%20Report.pdf)
 
-SolarUpp Demo Video: (https://www.youtube.com/watch?v=dR0Vevn98uk&feature=youtu.be)
+SolarUpp Demo Video: [Click here to go to watch Demo Video](https://www.youtube.com/watch?v=dR0Vevn98uk&feature=youtu.be)
 
 ![img](https://github.com/egeakin/SolarUpp/raw/master/Screen%20Shot%202019-10-18%20at%2015.08.29.png)
